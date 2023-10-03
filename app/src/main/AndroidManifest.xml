@@ -40,7 +40,7 @@
             android:name=".CardviewActivity.CardviewActivity"
             android:exported="false" />
         <activity
-            android:name=".DetailActivity"
+            android:name=".CardviewActivity.DetailActivity"
             android:exported="false" />
         <activity
             android:name=".BelajarFragment.FragmentsActivity"

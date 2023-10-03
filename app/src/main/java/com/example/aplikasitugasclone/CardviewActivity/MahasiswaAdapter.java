@@ -7,7 +7,7 @@ import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 import java.util.List;
 import android.widget.TextView;
-import com.example.aplikasitugasclone.DetailActivity;
+
 import com.example.aplikasitugasclone.R;
 import android.content.Context;
 import android.content.DialogInterface;

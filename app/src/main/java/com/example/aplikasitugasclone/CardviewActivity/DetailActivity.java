@@ -1,8 +1,9 @@
-package com.example.aplikasitugasclone;
+package com.example.aplikasitugasclone.CardviewActivity;
 
 import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
 import android.widget.TextView;
+import com.example.aplikasitugasclone.R;
 
 public class DetailActivity extends AppCompatActivity {
 
@@ -32,7 +33,7 @@ public class DetailActivity extends AppCompatActivity {
             nimTextView.setText(nim);
             jurusanTextView.setText(jurusan);
             prodiTextView.setText(prodi);
-            alamatTextView.setText("Alamat: " + alamat);
+            alamatTextView.setText("Asal Kota: " + alamat);
             nomorWhatsAppTextView.setText("WhatsApp: " + nomorWhatsApp);
             namaInstagramTextView.setText("Instagram: @" + namaInstagram);
         }
