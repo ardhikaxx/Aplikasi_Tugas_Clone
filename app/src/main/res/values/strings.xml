@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Aplikasi Tugas Clone</string>
+    <string-array name="food_array">
+        <item>Nasi Goreng</item>
+        <item>Seblak</item>
+        <item>Nasi Pecel</item>
+        <item>Telur Gulung</item>
+        <item>Batagor</item>
+        <item>Cilok</item>
+        <item>Cireng</item>
+        <item>Tahu Kocek</item>
+        <item>Cimol</item>
+        <item>Dimsum</item>
+        <item>Bakso Gulung</item>
+        <item>Bakso Beranak</item>
+        <item>Roti Aoka</item>
+        <item>Rendang</item>
+        <item>Sate</item>
+        <item>Nasi Padang</item>
+        <item>Gado-Gado</item>
+        <item>Ayam Goreng</item>
+        <item>Nasi Uduk</item>
+        <item>Bakso</item>
+        <item>Ikan Bakar</item>
+        <item>Pempek</item>
+        <item>Nasi Tumpeng</item>
+        <item>Martabak</item>
+        <item>Rujak</item>
+    </string-array>
+    <string name="title_activity_buttom_navigation_register">ButtomNavigationRegisterActivity
+    </string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_menu">MenuActivity</string>
+    <string name="title_activity_menu_fragment">MenuFragmentActivity</string>
+    <string name="title_activity_menu_fragmen">MenuFragmenActivity</string>
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>
