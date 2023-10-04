@@ -95,14 +95,11 @@ public class RegisterActivity extends AppCompatActivity {
         genderSpinner.setOnItemSelectedListener(new AdapterView.OnItemSelectedListener() {
             @Override
             public void onItemSelected(AdapterView<?> parentView, View selectedItemView, int position, long id) {
-                // Pilihan jenis kelamin yang dipilih
                 String selectedGender = genderOptions[position];
-                // Lakukan sesuatu dengan pilihan jenis kelamin yang dipilih
             }
 
             @Override
             public void onNothingSelected(AdapterView<?> parentView) {
-                // Handle jika tidak ada yang dipilih
             }
         });
 
