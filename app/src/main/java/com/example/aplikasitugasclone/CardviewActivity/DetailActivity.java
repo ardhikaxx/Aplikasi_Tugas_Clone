@@ -26,7 +26,7 @@ public class DetailActivity extends AppCompatActivity {
             TextView jurusanTextView = findViewById(R.id.jurusanDetailTextView);
             TextView prodiTextView = findViewById(R.id.prodiDetailTextView);
             TextView alamatTextView = findViewById(R.id.alamatDetailTextView);
-            TextView nomorWhatsAppTextView = findViewById(R.id.nomorWhatsAppDetailTextView); // TextView untuk nomor WhatsApp
+            TextView nomorWhatsAppTextView = findViewById(R.id.nomorWhatsAppDetailTextView);
             TextView namaInstagramTextView = findViewById(R.id.namaInstagramDetailTextView);
 
             namaTextView.setText(nama);
